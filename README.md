@@ -1,0 +1,1 @@
+This is a blog done with the purpose of learning react and node js
